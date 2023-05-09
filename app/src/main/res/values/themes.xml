@@ -6,4 +6,9 @@
     </style>
 
     <style name="Theme.RecycleAdapterHolder" parent="Base.Theme.RecycleAdapterHolder" />
+
+    <style name="Theme.RecycleAdapterHolder.ActionBar">
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">false</item>
+    </style>
 </resources>
